@@ -19,6 +19,7 @@ git clone https://github.com/HHHHorrible/Group_SystemGenerator_Guide.git
 ## 参考资料
 目前刚起步,别的不说,先上一些已有的成熟的资料
 [学会System Generator（1）入门与安装](https://blog.csdn.net/FPGADesigner/article/details/80926520)
+
 [《学会System Generator系列》目录与传送门](https://blog.csdn.net/FPGADesigner/article/details/82792576)
 
 这里先上一个我在CSDN上很喜欢的一个博主FPGADesigner的系列文章
