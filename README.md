@@ -1,0 +1,2 @@
+# Group_SystemGenerator_Guide
+这次搞的是赛灵思家的system generator ，应用已经非常广泛了，现在我们先用来校验一下制度问题
