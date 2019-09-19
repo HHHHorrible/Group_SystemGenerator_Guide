@@ -24,7 +24,7 @@ git clone https://github.com/HHHHorrible/Group_SystemGenerator_Guide.git
 
 这里先上一个我在CSDN上很喜欢的一个博主FPGADesigner的系列文章
 ## 加入我们
-我们是一群佛系的业余的技术爱好者,致力于探究新的EE/AI间的新技术,新工具.在我们当中,有工程师,也有EE类学生,也有普通大学生,也有一些实习的大哥.
+我们是一群佛系的技术爱好者,致力于探究新的EE/AI间的新技术,新工具.在我们当中,有工程师,也有EE类学生,也有普通大学生,也有一些实习的大哥.
 
 如果你有兴趣的话,可以选择加入我们.
 ![](https://i.loli.net/2019/09/19/r3WHt8my4bZlsQ2.jpg)
