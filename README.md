@@ -1,8 +1,6 @@
 # Group_SystemGenerator_Guide
 这次搞的是赛灵思家的system generator ，应用已经非常广泛了,资料也是相当的多，现在我们先用来校验一下制度和可行性问题
 
-[toc]
-
 ## 怎么开始
 
 - 安装Matlab >2016a(一定要安装simulink)
